@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Google Places for Python
 # Adrien Katsuya Tateno 2014
 
